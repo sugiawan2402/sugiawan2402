@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### About Me
-![Blue and Black Simple Neon Programming Tips YouTube Thumbnail (3)]
-
-(https://user-images.githubusercontent.com/55156159/209441344-e3ab60a0-2b67-4838-9615-eaadbbad646b.png)
+![Blue and Black Simple Neon Programming Tips YouTube Thumbnail (3)](https://user-images.githubusercontent.com/55156159/209441344-e3ab60a0-2b67-4838-9615-eaadbbad646b.png)
 
 <br><br>
 I'm a Fresh graduate of Computer Engineering of State University of Makassar, i once interned student at CV.STWOR, also one of Google Student Developer Club Membership. I just an ordinary student with a 3.44 GPA, but i've completed a lot of projects in Image Peocessing, Dataset, Iot, AI, Android APK, or Website. 
